@@ -23,7 +23,7 @@
             trabajo: {
                 validators: {
                         notEmpty: {
-                        message: 'Por favor indique el fecha'
+                        message: 'Por favor seleccione archivo'
                     }
                 }
             },
